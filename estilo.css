@@ -1,0 +1,27 @@
+header{
+    background-color: indigo;
+    height: 10vh;
+
+}
+
+#banner{
+    height: 90vh;
+}
+
+.nav-link{
+    color: yellow;
+}
+
+#banner .container .row{
+    height: 70vh;
+}
+
+#about{
+    background-color: blueviolet;
+    height: 100vh;
+    color: yellow;
+}
+
+#about .container .row{
+    height: 100vh;
+}
