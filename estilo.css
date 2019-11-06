@@ -1,4 +1,4 @@
-header,footer{
+header{
     background-color: indigo;
     height: 10vh;
 
@@ -39,6 +39,10 @@ nav{
     height: 100vh;
 }
 
+
+
+/*-------- Capa3 ------- */
+
 .iconify { 
     color: indigo;
     width: 250px;
@@ -58,4 +62,11 @@ nav{
         height: 70vh;
     }
 
+/*-------- Footer ------- */
+
+footer{
+
+    background-color: indigo;
+    height: 20vh;
+    color: white;
 }
