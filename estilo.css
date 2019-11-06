@@ -1,27 +1,61 @@
-header{
+header,footer{
     background-color: indigo;
     height: 10vh;
 
 }
 
+.titulo{
+    
+    color: white;
+}
+
+nav{
+    position:relative;
+    top: 10px;
+    
+}
+
+/*-------- Capa1 ------- */
 #banner{
-    height: 90vh;
+    height: 77vh;
 }
 
-.nav-link{
-    color: yellow;
-}
 
-#banner .container .row{
+
+ #banner .container .row{
     height: 70vh;
 }
 
+
+/*-------- Capa1 ------- */
+
 #about{
     background-color: blueviolet;
-    height: 100vh;
+    height: 90vh;
     color: yellow;
 }
 
 #about .container .row{
     height: 100vh;
+}
+
+.iconify { 
+    color: indigo;
+    width: 250px;
+    height: 100px;
+}
+
+
+.links{
+    
+        height: 77vh;
+        border: none;
+    }
+    
+    
+    
+     #links.container .row{
+        height: 70vh;
+    }
+
 }
