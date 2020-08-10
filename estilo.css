@@ -14,6 +14,9 @@ nav{
     top: 10px;
     
 }
+nav-link{
+    color: white;
+}
 
 
 ul{
@@ -21,43 +24,64 @@ ul{
 }
 
 /*-------- Capa1 ------- */
-#banner{
-    height: 77vh;
-}
-
 
 
  #banner .container .row{
     height: 70vh;
 }
 
-
 /*-------- Capa1 ------- */
 
 #about{
-    background-color: blueviolet;
-    height: 90vh;
-    color: yellow;
+    background-color: indigo;
+    height: 80vh;
+    color: white;
 }
-
 #about .container .row{
-    height: 100vh;
+    height: 70vh;
 }
-
-
 
 /*-------- Capa3 ------- */
 
+img{
+    width: 350px;
+    height: 250px;
+    border-radius: 2%;
+}
+
+
+span{
+    cursor: pointer;
+}
+.titulosite{
+    margin-top: 10px;
+}
+
+
+/*-------- Capa4 ------- */
+
 .iconify { 
-    color: indigo;
+    color: white;
     width: 250px;
     height: 100px;
 }
 
+.infos-projeto{
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-top: 40px;
 
-.links{
+}
+.infos-contato{
+    margin-bottom: 40px;
     
-        height: 77vh;
+}
+.card{
+    border: none;
+
+}
+.links{
+
         border: none;
     }
     
@@ -67,7 +91,7 @@ ul{
         height: 70vh;
     }
 
- .links a{
+ .btn{
      background-color:  blueviolet;
  }   
 
@@ -76,6 +100,10 @@ ul{
 footer{
 
     background-color: indigo;
-    height: 20vh;
+
     color: white;
+}
+
+h4{
+    margin-top: 20px;
 }

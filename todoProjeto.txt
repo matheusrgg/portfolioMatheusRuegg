@@ -6,4 +6,19 @@ arrumar dropdown toggle
 imrpevistos arrumar 
 margem no menu
 e escrever no botao
-BOTA NO MENU CLIC[AVEL
+BOTA NO MENU CLICAVEL
+e lembrei da cor do botao
+
+
+*// Atualizadno
+
+Arrumar
+
+footer com o do Hubinova
+cor do texto de amarelo para branco
+arrumar esse menu hamburger quando clica não via
+colocar um link na foto pro github e na outra pro linkedin
+colocar projetos okparje metodo okokok
+
+COlocar o link no footer
+e Arrumar o menu e acabo
